@@ -1,0 +1,8 @@
+﻿  Main.cpp
+c:\users\s189071\source\repos\debugging exercise\main.cpp(49): warning C4018: '<': signed/unsigned mismatch
+  Marine.cpp
+  Zergling.cpp
+  Generating code
+  All 23 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Debugging Exercise.vcxproj -> C:\Users\s189071\source\repos\Release\Debugging Exercise.exe
